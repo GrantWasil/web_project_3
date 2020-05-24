@@ -4,6 +4,6 @@
 	margin: 34px auto 58px auto;
 	max-width: 984px;
 	display: grid;
-	grid-template-columns: 92% 3% 3%;
+	grid-template-columns: 90% 3% 3%;
 	grid-gap: 18px;
 }
