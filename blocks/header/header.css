@@ -7,3 +7,24 @@
 	grid-template-columns: 90% 3% 3%;
 	grid-gap: 18px;
 }
+
+@media (max-width: 1024px) {
+	.header {
+		margin: 34px 48px 50px 48px;
+		max-width: 928px;
+	}
+} 
+
+@media (max-width: 768px) {
+	.header {
+		margin: 34px 24px 50px 24px;
+		max-width: 720px;
+	}
+}
+
+@media (max-width: 320px) {
+	.header {
+		margin: 20px 16px 50px;
+		max-width: 288px;
+	}
+}

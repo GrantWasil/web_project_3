@@ -1,0 +1,11 @@
+.place__website__url {
+	text-decoration: none;
+	text-decoration-line: underline;
+	color: #FFF;
+	font-size: 18px;
+}
+
+.place__website__url:hover {
+	color: #FFF;
+	opacity: .8;
+}

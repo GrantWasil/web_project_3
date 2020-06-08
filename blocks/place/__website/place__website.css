@@ -1,0 +1,14 @@
+@import url(./__url/place__website__url-heading.css);
+@import url(./__url/place__website__url.css);
+
+.place__website {
+	grid-column-start: 2;
+	grid-row-start: 0;
+	align-self: end;
+}
+
+@media (max-width: 320px) {
+	.place__website {
+		display: none;
+	}
+}
