@@ -10,3 +10,21 @@
 	align-items: center;
 	padding-top: 233px;
 }
+
+@media (max-width: 1024px) {
+	.cover__text {
+		padding-top: 233px;
+	}
+}
+
+@media (max-width: 768px) {
+	.cover__text {
+		padding-top: 153px;
+	}
+}
+
+@media (max-width: 425px) {
+	.cover__text {
+		padding-top: 51px;
+	}
+}

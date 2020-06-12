@@ -7,3 +7,10 @@
 	margin: 0 0 32px 0;
 }
 
+@media (max-width: 425px) {
+	.cover__text_title {
+		font-size: 32px;
+		line-height: 35px;
+		margin-bottom: 16px;
+	}
+}

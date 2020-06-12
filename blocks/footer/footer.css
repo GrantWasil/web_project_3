@@ -10,8 +10,22 @@
 	margin: 0 auto;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 1024px) {
+	.footer {
+		max-width: calc(1024px - 96px);
+	}
+}
+
+@media (max-width: 768px) {
+	.footer {
+		max-width: calc(768px - 48px);
+	}
+}
+
+@media (max-width: 425px) {
 	.footer {
 		flex-direction: column;
+		max-width: 168px;
+		margin: 0 16px;
 	}
 }

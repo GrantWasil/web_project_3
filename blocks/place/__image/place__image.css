@@ -19,10 +19,10 @@
 	}
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
 	.place__image {
-		max-width: 320px;
-		max-height: 320px;
+		max-width: 425px;
+		max-height: 425px;
 		padding-bottom: 32px;
 	}
 }

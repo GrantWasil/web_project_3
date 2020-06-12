@@ -29,12 +29,11 @@
 	}
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
 	.photo-grid {
-		grid-template-columns: repeat(1, 288px);
-		grid-template-rows: repeat(4, 1fr);
+		grid-template-columns: calc(100vw - 32px);
 		grid-gap: 12px;
-		margin: 0 16px;
-		max-width: 288px;
+		margin: 0 auto;
+		max-width: calc(100% - 32px);
 	}
 }

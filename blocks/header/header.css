@@ -26,6 +26,6 @@
 @media (max-width: 425px) {
 	.header {
 		margin: 20px 16px 50px;
-		max-width: 288px;
+		max-width: calc(100vw - 32px);
 	}
 }

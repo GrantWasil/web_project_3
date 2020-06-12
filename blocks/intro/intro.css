@@ -23,9 +23,9 @@
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 425px) {
 	.intro {
 		margin: 0 16px 64px 16px;
-		max-width: 288px;
+		max-width: calc(100% - 32px);
 	}
 }
