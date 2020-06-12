@@ -2,10 +2,12 @@
 @import url(./__subtitle/intro__subtitle.css);
 @import url(./__text/intro__text.css);
 @import url(./__list/intro__list.css);
+@import url(./__list/intro__list-number.css);
+@import url(./__container/intro__container.css);
 
 .intro {
-	max-width: 690px;
-	margin: 0 442px 92px 148px;
+	max-width: 984px;
+	margin: 0 auto 92px auto;
 }
 
 @media (max-width: 1024px) {

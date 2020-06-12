@@ -1,11 +1,12 @@
+@import url(./__langs/header__langs.css);
 @import url(./__lang/header__lang-link.css);
+@import url(./__lang/header__lang-link_active.css);
 
 .header {
 	margin: 34px auto 58px auto;
 	max-width: 984px;
-	display: grid;
-	grid-template-columns: 90% 3% 3%;
-	grid-gap: 18px;
+	display: flex;
+	justify-content: space-between;
 }
 
 @media (max-width: 1024px) {
@@ -22,7 +23,7 @@
 	}
 }
 
-@media (max-width: 320px) {
+@media (max-width: 425px) {
 	.header {
 		margin: 20px 16px 50px;
 		max-width: 288px;

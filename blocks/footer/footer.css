@@ -5,6 +5,9 @@
 .footer {
 	display: flex;
 	padding-bottom: 24px;
+	justify-content: space-between;
+	max-width: calc(1280px - 96px);
+	margin: 0 auto;
 }
 
 @media (max-width: 320px) {

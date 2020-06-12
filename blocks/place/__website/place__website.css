@@ -1,5 +1,5 @@
-@import url(./__url/place__website__url-heading.css);
-@import url(./__url/place__website__url.css);
+@import url(./place__website_url-heading.css);
+@import url(./place__website_url.css);
 
 .place__website {
 	grid-column-start: 2;

@@ -1,0 +1,12 @@
+@import url(./cover__text_title.css);
+@import url(./cover__text_subtitle.css);
+
+.cover__text {
+	display: flex;
+	flex-direction: column;
+	max-width: 656px;
+	margin: 0 auto;
+	z-index: 2;
+	align-items: center;
+	padding-top: 233px;
+}

@@ -1,11 +1,11 @@
-.place__website__url {
+.place__website_url {
 	text-decoration: none;
 	text-decoration-line: underline;
 	color: #FFF;
 	font-size: 18px;
 }
 
-.place__website__url:hover {
+.place__website_url:hover {
 	color: #FFF;
 	opacity: .8;
 }
