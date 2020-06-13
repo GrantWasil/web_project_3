@@ -8,6 +8,11 @@
 	padding-right: 0;
 }
 
+.footer__link a {
+	text-decoration: none;
+	color: white;
+}
+
 .footer__link:hover {
 	opacity: .8;
 }

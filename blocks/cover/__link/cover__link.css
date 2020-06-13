@@ -2,4 +2,12 @@
 	text-decoration: none;
 	z-index: 3;
 	color: #FFF;
+	background-image: url('../../../images/cover.png');
+	background-position: center;
+	position: relative;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
 }

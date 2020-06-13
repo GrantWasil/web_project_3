@@ -1,24 +1,4 @@
 .photo-grid__photo {
-	width: 284px;
-	height: 213px;
+	width: 100%;
 }
 
-@media (max-width: 1024px) {
-	.photo-grid__photo {
-		min-width: 300px;
-		height: 225px;
-	}
-}
-
-@media (max-width: 768px) {
-	.photo-grid__photo {
-		min-width: 352px;
-		height: 264px;
-	}
-}
-
-@media (max-width: 425px) {
-	.photo-grid__photo {
-		min-width: 100%;
-	}
-}

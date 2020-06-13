@@ -1,5 +1,7 @@
 # Project 3: From Portland to Portland
 
+Find a link to my project [here](https://grantwasil.github.io/web_project_3/)
+
 ### Overview
 * Intro
 * Figma
