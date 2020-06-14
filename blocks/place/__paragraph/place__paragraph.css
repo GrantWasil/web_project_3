@@ -16,7 +16,7 @@
 	}
 }
 
-@media (max-width: 425px) {
+@media (max-width: 500px) {
 	.place__paragraph {
 		padding: 0 16px 24px;
 	}

@@ -1,6 +1,6 @@
 @import url(./__langs/header__langs.css);
 @import url(./__lang-link/header__lang-link.css);
-@import url(./__lang-link/header__lang-link_active.css);
+@import url(./__lang-link/_active/header__lang-link_active.css);
 
 .header {
 	margin: 34px auto 58px auto;
@@ -23,7 +23,7 @@
 	}
 }
 
-@media (max-width: 425px) {
+@media (max-width: 500px) {
 	.header {
 		margin: 20px 16px 50px;
 		max-width: calc(100vw - 32px);

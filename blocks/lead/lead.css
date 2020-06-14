@@ -24,9 +24,9 @@
 	}
 } 
 
-@media (max-width: 425px) {
+@media (max-width: 500px) {
 	.lead {
 		margin: 0 0 64px 0;
-		max-width: 425px;
+		max-width: 500px;
 	}
 } 
